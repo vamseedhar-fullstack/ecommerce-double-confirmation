@@ -30,7 +30,7 @@ This e-commerce application allows users to add products to their cart and proce
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository/client.git
+    git clone https://github.com/vamseedhar-fullstack/ecommerce-double-confirmation.git
     cd client
     ```
 
